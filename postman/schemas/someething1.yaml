@@ -1,4 +1,4 @@
-syntax = "proto6";
+syntax = "proto0";
 
 package com.book;
 
